@@ -93,7 +93,7 @@ html, body {
 .committees div div .card-img-overlay a {
     font-family: 'Kanit', sans-serif;
     font-size: 1.5rem;
-    background-color: #18ad1d;
+    background-color: rgb(39, 39, 39);
     padding: 2px 7px;
     color: #fff;
     text-decoration: none;
@@ -102,6 +102,7 @@ html, body {
 
 .committees div div .card-img-overlay a:hover {
     background-color: #037406;
+    transition: 0.3s;
 }
 
 .footer {
