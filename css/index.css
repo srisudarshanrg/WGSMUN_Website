@@ -125,6 +125,16 @@ html, body {
     font-size: 2rem;
 }
 
+.footer .insta-logo {
+    color: #f08a0d; 
+    text-decoration: none;
+}
+
+.footer .insta-logo:hover {
+    transition: 0.3s;
+    color: rgb(249, 44, 78);
+}
+
 @media (max-width: 992px) {
     .nav-item {
         margin-left: 0;
