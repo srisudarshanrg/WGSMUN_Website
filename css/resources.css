@@ -3,6 +3,7 @@
 html, body {
     background-color: rgb(28, 28, 28);
     width: 100%;
+    z-index: 0;
 }
 
 .navbar {
@@ -12,6 +13,7 @@ html, body {
     border-bottom: 2px solid #fff;
     position: sticky;
     top: 0;
+    z-index: 1000;
 }
 
 .margined {
